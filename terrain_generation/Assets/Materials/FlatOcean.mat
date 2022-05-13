@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FlatOcean
+  m_Shader: {fileID: -6465566751694194690, guid: 4702fc5ce25e9f744b024a1f303578de, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_25ebca9db0b749dc81e8a60a874aec79: 0.1
+    - Vector1_60722d8e7b73460a8b0b3c19335c3535: 1
+    - Vector1_8937269f973949dd89187ddf1d97d34c: 9.81
+    - Vector1_cc817c6241ef4e9cbaccbb5f604edc54: 0
+    - Vector1_e4f0321d66ed4cc386ee8dec431e8156: 1
+    m_Colors:
+    - Color_78a3633a063144709acfa16eae08ccc7: {r: 0, g: 0.6010704, b: 1, a: 0}
+    - Vector3_d5e5be09df8a44fdae3727dc05c5450a: {r: 8.5, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
